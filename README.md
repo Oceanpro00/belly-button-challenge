@@ -1,5 +1,8 @@
 # Belly Button Biodiversity Dashboard
 
+## 🚀 Live Deployment
+🔗 **[Belly Button Biodiversity Dashboard](https://oceanpro00.github.io/belly-button-challenge/)**
+
 ## 📌 Overview
 
 This project is part of my **University of Toronto Data Analytics Bootcamp (Module 14 Challenge)**. The goal is to create an **interactive dashboard** using **JavaScript, D3.js, and Plotly.js** to explore the **Belly Button Biodiversity dataset**. The dataset catalogs microbial species found in human navels and reveals that a small number of species are commonly present in most individuals, while the rest are rare.
@@ -159,6 +162,7 @@ belly-button-challenge/
 
 ## 🏆 Acknowledgments
 
-This project was developed as part of the **University of Toronto Data Analytics Bootcamp**.
+This project was developed by **Sean Schallberger** as part of the **University of Toronto Data Analytics Bootcamp**.
 
 ---
+
