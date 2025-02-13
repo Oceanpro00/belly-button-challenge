@@ -67,7 +67,7 @@ This project is part of my **University of Toronto Data Analytics Bootcamp (Modu
 ### **1️⃣ Setup Repository & Environment**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/belly-button-challenge.git
+   git clone git@github.com:Oceanpro00/belly-button-challenge.git
    ```
 2. Navigate into the project folder:
    ```sh
@@ -114,6 +114,40 @@ This project is part of my **University of Toronto Data Analytics Bootcamp (Modu
 ---
 
 ## 🚀 Deployment & Submission
+
+- **Deployed Application:** [Belly Button Biodiversity Dashboard](https://oceanpro00.github.io/belly-button-challenge/)
+- **Ensure all visualizations work correctly** when interacting with the dropdown.
+- **Submit both**:
+  - **GitHub repository link**
+  - **Deployed app link**
+
+---
+
+## 📁 Repository Breakdown
+
+The repository is structured as follows:
+
+```
+belly-button-challenge/
+│-- index.html  # Main HTML file for the dashboard
+│-- app.js  # JavaScript file handling data fetching and visualization
+│-- samples.json  # Dataset containing microbiome information
+│-- README.md  # Documentation for the project
+│-- static/
+│   │-- css/
+│   │   └── style.css  # Styling for the dashboard
+│   └── js/
+│       └── plots.js  # JavaScript file for Plotly visualizations
+```
+
+- **index.html:** Main webpage structure.
+- **app.js:** Handles data retrieval and interactivity.
+- **samples.json:** Dataset with microbiome details (included for reference but not directly used in the dashboard). The data is instead imported dynamically from the external source: [Belly Button Biodiversity Dataset](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json).
+- **static/css/style.css:** Stylesheet for layout and design.
+- **static/js/plots.js:** Generates visualizations using Plotly.
+- **README.md:** Project documentation and setup instructions.
+
+---
 
 - **Deploy to GitHub Pages** for public access.
 - **Ensure all visualizations work correctly** when interacting with the dropdown.
